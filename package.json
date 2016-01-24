@@ -1,0 +1,22 @@
+{
+  "name": "activejade-site",
+  "version": "1.0.0",
+  "description": "ActiveJade.com - ActiveJade Examples",
+  "dependencies": {
+    "activejade": "^1.1.6",
+    "grunt": "^0.4.5",
+    "grunt-activejade": "^1.0.2",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-less": "^1.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreytkachenko/activejade.org.git"
+  },
+  "author": "Andrey Tkachenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andreytkachenko/grunt-activejade/issues"
+  },
+  "homepage": "https://github.com/andreytkachenko/grunt-activejade#readme"
+}
